@@ -1,0 +1,11 @@
+/* Все цвета — только здесь. Новая тема = новый блок [data-theme="имя"] + запись в js/app.js (THEMES). */
+:root,[data-theme="matcha"]{--bg:#b4d15a;--surface:#eaf6cb;--ink:#111;--btn:#111;--btn-ink:#d6f06f;--accent:#8fb52c;--on:#111;
+--k1:#111;--t1:#d6f06f;--k2:#8fb52c;--t2:#111;--k3:#f4fbdf;--t3:#111;--k4:#111;--t4:#fff;--good:#2f9e44;--bad:#d9480f}
+[data-theme="beige"]{--bg:#e9d9c4;--surface:#f7efe4;--ink:#3b2a1f;--btn:#3b2a1f;--btn-ink:#f7efe4;--accent:#a9754f;--on:#fff;
+--k1:#7a5336;--t1:#fff;--k2:#d9bfa0;--t2:#3b2a1f;--k3:#fffaf2;--t3:#3b2a1f;--k4:#c79a73;--t4:#fff;--good:#4f8a3c;--bad:#b5472b}
+[data-theme="pink"]{--bg:#f6bcd6;--surface:#ffe4ef;--ink:#2b1020;--btn:#2b1020;--btn-ink:#ffd0e5;--accent:#e0559a;--on:#fff;
+--k1:#2b1020;--t1:#ffd0e5;--k2:#f48bb9;--t2:#2b1020;--k3:#fff2f8;--t3:#2b1020;--k4:#b83a7a;--t4:#fff;--good:#2f9e6b;--bad:#c92a2a}
+[data-theme="color"]{--bg:#fbf1d8;--surface:#fffaf0;--ink:#17151f;--btn:#17151f;--btn-ink:#fff;--accent:#7d6bff;--on:#fff;
+--k1:#f7d94c;--t1:#17151f;--k2:#f5a6cf;--t2:#17151f;--k3:#b9b4f5;--t3:#17151f;--k4:#a8e3d3;--t4:#17151f;--good:#2f9e44;--bad:#e03131}
+[data-theme="mono"]{--bg:#e8e8e8;--surface:#fff;--ink:#000;--btn:#000;--btn-ink:#fff;--accent:#000;--on:#fff;
+--k1:#000;--t1:#fff;--k2:#dcdcdc;--t2:#000;--k3:#f1f1f1;--t3:#000;--k4:#6b6b6b;--t4:#fff;--good:#222;--bad:#555}
